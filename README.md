@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fillsen
+- 👀 I’m interested in JavaScript, ReactJS, Material UI
+- 🌱 I’m currently learning Next.js, Nest.js, SQL
+- 💞️ I’m looking to collaborate on React JS
+- 📫 Contact me if you want to hire
