@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Fillsen
-- 👀 I’m interested in JavaScript, ReactJS, Material UI
-- 🌱 I’m currently learning Next.js, Nest.js, SQL
-- 💞️ I’m looking to collaborate on React JS
-- 📫 Contact me if you want to hire
+- 👀 I’m interested in JavaScript, ReactJS, Material UI, Redux, MobX, REST API, GraphQL
+- 🌱 I’m currently learning Redux, React Hooks
+- 📫 Contact me: telegram: @Fillsen vk.com/fillsen
