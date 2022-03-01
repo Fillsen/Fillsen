@@ -1,4 +1,17 @@
-- 👋 Hi, I’m @Fillsen
-- 👀 I’m interested in JavaScript, ReactJS, Material UI, Redux, MobX, REST API, GraphQL
-- 🌱 I’m currently learning Redux, React Hooks
-- 📫 Contact me: telegram: @Fillsen vk.com/fillsen
+### Hi there 👋
+
+#### I'm a Frontend Developer working in DDoS-Guard, Russia.
+
+##### NOW
+
+- ✨ Working on [main](https://ddos-guard.net) website;
+- 🇵🇹 Techs: Vue, Vuex, Nuxt;
+
+##### BIO
+
+- 🏢 I'm currently working at **Medicare Portugal**
+- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.tsx`, `.jsx`
+- 🌍 I'm mostly active within the **JavaScript community**
+- 🌱 Learning all about **Vue and React**
+- 📫 Contact me: [@Fillsen](https://t.me/Fillsen)
+- ⚡️ Fun fact: I'm a huge fan of Star Wars
