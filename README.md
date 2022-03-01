@@ -10,7 +10,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.tsx`, `.jsx`
+- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.tsx`, `.jsx`, `.vue`
 - 🌍 I'm mostly active within the **JavaScript community**
 - 🌱 Learning all about **Vue and React**
 - 📫 Contact me: [@Fillsen](https://t.me/Fillsen)
