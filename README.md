@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo 👋
 
 #### I'm a Frontend Developer working in DDoS-Guard, Russia.
 
