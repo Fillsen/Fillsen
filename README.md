@@ -4,12 +4,12 @@
 
 ##### NOW
 
-- ✨ Working on [main](https://ddos-guard.net) website;
+- ✨ Working in [DDoS-Guard](https://ddos-guard.net);
 - ⚡️ Techs: Vue, Vuex, Nuxt;
 
 ##### BIO
 
-- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.scss`, `.tsx`, `.jsx`, `.vue`
-- 🌍 I'm mostly active within the **JavaScript community**
-- 🌱 Learning all about **Vue and React**
+- ⚙️ I use Webstorm IDE
+- 🌍 English level: B2
+- 🌱 Learning all about **Vue and JS**
 - 📫 Contact me: [@Fillsen](https://t.me/Fillsen)
