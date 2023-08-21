@@ -1,13 +1,13 @@
 ### Yo 👋
 
-#### I'm a Frontend Developer working in DDoS-Guard, Russia.
+#### I'm a Frontend Developer working in Wazzup, Russia.
 
 ##### NOW
 
-- ✨ Working in [DDoS-Guard](https://ddos-guard.net);
+- ✨ Working in [Wazzup](https://wazzup24.ru/);
 - ⚡️ Techs: Vue 2, Vue 3, Vuex, Pinia, Nuxt 2, Nuxt 3, TypeScript;
 
-##### BIO
+##### ABOUT
 
 - ⚙️ I use Webstorm IDE
 - 🌍 English level: B2
