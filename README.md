@@ -1,16 +1,38 @@
-### Yo 👋
+# 🚀 **Welcome to My GitHub Profile!**
 
-#### I'm a Frontend Developer working in Wazzup, Russia.
+## 👋 **About Me**
+I'm a passionate **Full-Stack Developer** with experience in building modern, scalable, and efficient web and mobile applications. I thrive on turning ideas into seamless digital experiences.
 
-##### NOW
+## 🛠️ **Tech Stack & Expertise**
 
-- ✨ Working in [Wazzup](https://wazzup24.ru/);
-- ⚡️ Techs: Vue 3, Pinia, Nuxt 3, TypeScript, Capacitor, self-made ui-kit;
+### **Frontend:**
+- **Vue 3** – Modern frontend framework for building dynamic and reactive interfaces.
+- **Nuxt 3** – Framework for server-side rendering (SSR) and static site generation (SSG).
+- **SPA** – Single Page Applications for smooth and fast user experiences.
+- **SSR** – Server-Side Rendering for enhanced SEO and performance.
+- **PWA** – Progressive Web Apps for a native app-like experience.
+- **Capacitor / Cordova** – Mobile application deployment for iOS and Android.
 
-##### ABOUT
+### **Backend:**
+- **Node.js** – Efficient JavaScript runtime for scalable backend services.
+- **Express.js** – Minimal and flexible Node.js framework for APIs.
+- **PostgreSQL** – Robust relational database for secure data storage.
+- **Prisma** – Modern ORM for database schema management and queries.
 
-- ⚙️ I use Webstorm IDE
-- 🌍 English level: B2
-- 🌱 Learning all about **Vue, JS, TS**
-- 📫 Contact me: [@Fillsen](https://t.me/Fillsen)
-- ⚡️ Techs: Vue 2, Vue 3, Vuex, Pinia, Nuxt 2, Nuxt 3, TypeScript, Capacitor;
+### **Soft skills:**
+- Mentorship Experience – Guiding and supporting junior developers in their professional growth.
+- Time Management
+- Effective Communication
+- Languages: Russian (Native), English (B2 Upper-Intermediate)
+
+## 🌟 **What I Build**
+- Interactive web applications
+- Scalable backend services
+- Mobile-friendly PWA solutions
+- RESTful and GraphQL APIs
+
+## 📫 **Let's Connect!**
+- **GitHub:** [Fillsen](https://github.com/Fillsen)
+- **Telegram:** [@Fillsen](https://t.me/Fillsen)
+
+Feel free to explore my repositories and reach out for collaboration! 🚀✨
