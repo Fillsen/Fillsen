@@ -6,8 +6,10 @@ I'm a passionate **Full-Stack Developer** with experience in building modern, sc
 ## 🛠️ **Tech Stack & Expertise**
 
 ### **Frontend:**
-- **Vue 3** – Modern frontend framework for building dynamic and reactive interfaces.
-- **Nuxt 3** – Framework for server-side rendering (SSR) and static site generation (SSG).
+- **Vue** – Modern frontend framework for building dynamic and reactive interfaces.
+- **Nuxt** – Framework for server-side rendering (SSR) and static site generation (SSG).
+- **React** – Component-based library for building scalable and reusable UIs.
+- **Next** – React framework for SSR, SSG and fullstack web apps.
 - **SPA** – Single Page Applications for smooth and fast user experiences.
 - **SSR** – Server-Side Rendering for enhanced SEO and performance.
 - **PWA** – Progressive Web Apps for a native app-like experience.
